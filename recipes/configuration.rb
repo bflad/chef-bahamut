@@ -1,0 +1,2 @@
+
+settings = Bahamut.settings(node)
